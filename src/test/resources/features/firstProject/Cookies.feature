@@ -1,4 +1,4 @@
-Feature: b
+Feature: Belly
 
   Scenario: a few cookies
     Given I have 42 cookies in my belly
